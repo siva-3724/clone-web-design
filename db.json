@@ -1,0 +1,118 @@
+{
+  "stories": [
+    {
+      "id": 1,
+      "username": "_Sivaprasath_p",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-22 at 18.38.04_9521edc6.jpg"
+    },
+    {
+      "id": 2,
+      "username": "Anil_kutty",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-22 at 18.38.03_3e458258.jpg"
+    },
+    {
+      "id": 3,
+      "username": "Lavanya_prakash",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 11.24.05_79499661.jpg"
+    },
+    {
+      "id": 4,
+      "username": "Crazy_Nandhu",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 12.12.46_99c3502a.jpg"
+    },
+    {
+      "id": 5,
+      "username": "Sakthi_p",
+      "profilePic": "src/assets/caaac8e708e5e511c6383d2e3fdbff02.jpg"
+    },
+    {
+      "id": 6,
+      "username": "prakash_L",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 20.50.52_11fa755c.jpg"
+    },
+    {
+      "id": 7,
+      "username": "Sathya_p",
+      "profilePic": "src/assets/5978b03173ade62eca27e4aac71a4a31.jpg"
+    },
+    {
+      "id": 8,
+      "username": "Sathyaseelan",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 12.12.47_8ca725f3.jpg"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "username": "_Sivaprasath_p",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-22 at 18.38.04_9521edc6.jpg",
+      "image": "src/assets/download.jpeg",
+      "caption": "The sunset 🌅",
+      "likes": 150,
+      "comments": [
+        { "user": "alex_123", "text": "Beautiful!" },
+        { "user": "sara_smith", "text": "Love this ❤" }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "anil_kutty",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-22 at 18.38.03_3e458258.jpg",
+      "image": "src/assets/istockphoto-1403500817-612x612.jpg",
+      "caption": "Morning coffee ☕",
+      "likes": 230,
+      "comments": [
+        { "user": "mike_king", "text": "Looks delicious!" }
+      ]
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "username": "_Sivaprasath_p",
+    "profilePic": "src/assets/WhatsApp Image 2025-03-22 at 18.38.04_9521edc6.jpg"
+  },
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "Anil_kutty",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-22 at 18.38.03_3e458258.jpg",
+      "mutualFriends": 4
+    },
+    {
+      "id": 2,
+      "username": "Lavanya_prakash",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 11.24.05_79499661.jpg",
+      "mutualFriends": 5
+    },
+    {
+      "id": 3,
+      "username": "Crazy_Nandhu",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 12.12.46_99c3502a.jpg",
+      "mutualFriends": 3
+    },
+    {
+      "id": 4,
+      "username": "Sathyaseelan",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 12.12.47_8ca725f3.jpg",
+      "mutualFriends": 7
+    },
+    {
+      "id": 5,
+      "username": "Sakthi_p",
+      "profilePic": "src/assets/caaac8e708e5e511c6383d2e3fdbff02.jpg",
+      "mutualFriends": 17
+    },
+    {
+      "id": 6,
+      "username": "prakash_L",
+      "profilePic": "src/assets/WhatsApp Image 2025-03-23 at 20.50.52_11fa755c.jpg",
+      "mutualFriends": 10
+    },
+    {
+      "id": 7,
+      "username": "Sathya_p",
+      "profilePic": "src/assets/5978b03173ade62eca27e4aac71a4a31.jpg",
+      "mutualFriends": 13
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+.w-20{
+  width:20%;
+}
+.w-30{
+  width:30%;
+}
+.logo-text{
+  width:100px;
+}
+
+.bi{
+  margin-right: 10px;
+}
+.Story{
+  height: 60px;
+}
+
+@media (max-width: 600px) {
+  .feed {
+    padding: 5px;
+  }
+  .post-header {
+    flex-direction: row;
+    align-items: center;
+  }
+  .profile-pic {
+    width: 40px;
+    height: 40px;
+  }
+  .post-img {
+    max-height: 400px;
+  }
+  .post-footer {
+    padding: 5px;
+  }
+  .comments {
+    font-size: 12px;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .sidebar {
+    width: 80px; /* Collapse sidebar */
+    padding: 10px;
+  }
+
+  .sidebar div {
+    font-size: 14px;
+  }
+
+  .sidebar img {
+    width: 50px; /* Adjust logo size */
+  }
+}
+
+
+.stories-container::-webkit-scrollbar {
+  display: none; /* Hides scrollbar for a clean UI */
+}
+
+@media (max-width: 768px) {
+  .stories-container {
+    gap: 5px; /* Reduce spacing on small screens */
+  }
+  
+  .story img {
+    width: 55px; /* Smaller profile pic */
+    height: 55px;
+  }
+
+  .story p {
+    font-size: 11px; /* Adjust text size */
+  }
+}
+
+
+
+
+
+@media (max-width: 768px) {
+  .suggestions-container {
+    max-width: 100%; /* Full width on smaller screens */
+    padding: 5px;
+  }
+
+  .suggestions-container img {
+    width: 40px;
+    height: 40px;
+  }
+
+  .suggestions-container .btn {
+    font-size: 11px;
+    padding: 4px 8px;
+  }
+}
+
+
+
+
+
+
+
