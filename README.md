@@ -2,4 +2,7 @@
 . This project is a clone of Instagram's website design built using React.js. 
  The goal is to replicate the look and feel of Instagram while focusing on frontend development using React components, state management, 
  and UI styling
- "C:\Users\sivap\OneDrive\Pictures\Screenshots\Screenshot (20).png"
+
+
+ ![Uploading Screenshot (20).png…]()
+
