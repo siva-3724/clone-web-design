@@ -8,6 +8,10 @@
 
 ![Screenshot (21)](https://github.com/user-attachments/assets/e49270d1-ecc1-41ac-bd23-bec89b5d39a4)
 
-
+# Technologies UsedReact.js
+React Router
+Tailwind CSS / Styled Components
+Firebase (for backend integration, optional)
+Redux (optional for state management)
 
 
