@@ -14,4 +14,6 @@ Tailwind CSS / Styled Components
 Firebase (for backend integration, optional)
 Redux (optional for state management)
 
+link: http://localhost:4000/
+
 
